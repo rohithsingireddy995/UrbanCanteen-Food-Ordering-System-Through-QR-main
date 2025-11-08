@@ -1,0 +1,21 @@
+# UrbanCanteen GitHub Presentation Points
+
+## 1. The Problem
+- Inefficiency: Long queues and manual order-taking cause delays.
+- Limited transparency for users tracking their orders.
+- Manual inventory and order processes are prone to errors.
+
+## 2. The Solution
+- QR-code based food ordering for institutions and corporate canteens.
+- Three components: User App, Staff App, and Management Dashboard.
+- Goal: Efficiency, transparency, and analytics-driven management.
+
+## 3. Technical Implementation
+- Frontend: Flutter/Dart for iOS & Android.
+- Backend: Firebase (Auth, Realtime DB, Cloud Functions, FCM).
+- Real-time updates for orders, statuses, and inventory.
+
+## 4. Key Differentiators
+- QR Code Fulfillment to ensure accurate pickups.
+- Real-time order lifecycle visibility.
+- Operational intelligence via management analytics.
